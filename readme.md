@@ -28,7 +28,7 @@ Készítsd el a mintának megfelelő oldalt:
 
 1. A teljes oldalra (body) állítsd be az alábbiakat: 
    - háttérszín legyen fekete
-   - háttérkép ne ismétlődjön:  "kepek/auto_background_14.jpg"    
+   - háttérkép ne ismétlődjön:  "kepek/auto_background_14.jpg"      
    - a betűszín legyen fehér     
    - az oldal maximális szélessége 1000px legyen.  (max-width:1000px;)
    - az oldal elgyen középre igazítva (margin:auto;)
